@@ -1,4 +1,4 @@
-# recommendor_systems
+# Recommendor Systems
 
 Recommendor systems are everywhere - we have experienced the recommendor system of youtube, netflix, amazon and so on.
 
